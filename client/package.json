@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "Client-side application for the MERN estate project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -34,5 +35,17 @@
     "postcss": "^8.4.29",
     "tailwindcss": "^3.3.3",
     "vite": "^4.4.5"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/mern-estate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/mern-estate/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
 }
